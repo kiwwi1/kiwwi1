@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Kotlin, Java, C**
 
-💬 Ask me about **C, JavaScript, HTML, CSS... or anything [here](https://github.com/salesp07/salesp07/issues)**
+💬 Ask me about **C, JavaScript, HTML, CSS... or anything [here](https://github.com/kiwwi1/kiwwi/issues)**
 
 ⚡ Fun fact **I love music and can play a lot of instruments**
 
